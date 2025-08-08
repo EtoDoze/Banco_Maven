@@ -1,5 +1,6 @@
 package br.edu.ifpi.Model;
 
+
 public class PessoaFisica extends Pessoa {
     private String cpf;
 
